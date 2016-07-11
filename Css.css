@@ -1,4 +1,7 @@
 @charset "UTF-8";
+body{
+    background-color:gray;
+}
 #hyou{
 border:2px solid lightcoral;
 border-collapse:collapse;
